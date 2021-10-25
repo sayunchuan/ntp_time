@@ -1,0 +1,17 @@
+{
+    "name": "NetTime.Editor",
+    "references": [
+        "GUID:7a03d552d2de14f54a3bc46480d23e26"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
